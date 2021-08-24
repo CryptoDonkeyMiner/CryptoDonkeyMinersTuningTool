@@ -71,7 +71,7 @@ Use this if you have problems with your current OC falling off a cliff after run
 ```
 
 DEV FEE:
-Every 10th time running (with the exception of retries, as it would disrupt stability testing), it will switch to DEV Wallet.
+Every 1 out of 10 times running (with the exception of retries, as it would disrupt stability testing), it will switch to DEV Wallet.
 
 
 Please report bugs and post feature requests here, as I am actively developing the tool :)
