@@ -4,6 +4,9 @@ CryptoDonkeyMinersTuningTool will help you find the best overclock settings for 
 
 Currently only Ergo (ERG), Conflux (CFX), Ethereum (ETH) and Ravencoin (RVN) with T-Rex miner are supported.
 
+V1.0.0 ERG video demo: https://youtu.be/htG0PyrHgtQ
+V1.0.2 RVN video demo: https://youtu.be/9S977sqvpCQ
+
 ## Options
 * **Coins**</br>
 ```
