@@ -42,7 +42,8 @@ For each complete running iteration, increment will be added to FROM and move to
 
 * **Core Clock Locked**</br>
 ```
-* When checked Power Limit will be disabled, as T-Rex Miner will set the Core Clock to a fixed rate, that will determin the power usage
+* When checked Power Limit will be disabled, as T-Rex Miner will set the Core Clock to a fixed rate,
+  that will determin the power usage
 * WHen uncheck Power Limit will be enabled and it is up to you to define the range
 ```
 
@@ -51,7 +52,8 @@ For each complete running iteration, increment will be added to FROM and move to
 * Minimum
 The minimum acceptable hashrate before retries are triggered
 * Retries
-Amount of times (T-Rex summary displayed) a specific combination of clocks and power limit should run, before moving on. Use this if you have problems with your current OC falling off a cliff after running completely stable for some time
+Amount of times (T-Rex summary displayed) a specific combination of clocks and power limit should run, before moving on.
+Use this if you have problems with your current OC falling off a cliff after running completely stable for some time
 ```
 
 * **GPU**</br>
@@ -66,7 +68,8 @@ Amount of times (T-Rex summary displayed) a specific combination of clocks and p
 
 * **T-Rex Path**</br>
 ```
-* The path to the folder where your t-rex.exe is. Example: Your t-rex.exe full path is c:\t-rex\t-rex.exe, so path should be set to c:\t-rex
+* The path to the folder where your t-rex.exe is. Example: Your t-rex.exe full path is c:\t-rex\t-rex.exe, so path should be set
+  to c:\t-rex
 ```
 
 DEV FEE:
