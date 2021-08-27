@@ -10,7 +10,7 @@ V1.0.2 RVN video demo: https://youtu.be/9S977sqvpCQ
 
 My YouTube Channel: https://www.youtube.com/channel/UCXpeiHGQziOKLA1P1sGUFkA
 
-(You really need to check it out if you have a RTX 3070 LHR and want to mine ERGO)
+(You really need to check my YouTube out if you have a newer version LHR GPU, like the RTX 3070 LHR, new RTX 3060 TI and new RTX 3060, and want to mine ERGO)
 
 ## Options
 * **Coins**</br>
