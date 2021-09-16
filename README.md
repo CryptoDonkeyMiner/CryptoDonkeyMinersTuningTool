@@ -16,6 +16,12 @@ RTX 3060 LHR V2 mining ERGO 103 MH/s at 78 watts: https://youtu.be/yDbIE3XNs5Q
 
 RTX 3070 LHR mining ERGO 135 MH/s at 89 watts: https://youtu.be/A0uvAqr1d8U
 
+(For ETH Unlocker tests)
+
+RTX 3060 V2 LHR mining ETH with NBMiner, GMiner and MiniZ unlocker: https://youtu.be/OU6n9Qjlyos
+
+RTX 3070 LHR mining ETH with NBMiner and GMiner unlocker: https://youtu.be/-e7Jivhv7sE
+
 ## Options
 * **Coins**</br>
 ```
