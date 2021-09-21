@@ -22,6 +22,8 @@ RTX 3060 V2 LHR mining ETH with NBMiner, GMiner and MiniZ unlocker: https://yout
 
 RTX 3070 LHR mining ETH with NBMiner and GMiner unlocker: https://youtu.be/-e7Jivhv7sE
 
+RTX 3080 TI LHR Unlock mining ETH with NBMiner, LolMiner and GMiner, in Windows 10 and HiveOS: https://youtu.be/TA02ITDY7M4
+
 ## Options
 * **Coins**</br>
 ```
