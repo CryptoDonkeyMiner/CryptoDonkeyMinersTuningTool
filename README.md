@@ -8,7 +8,7 @@ See how it works here: https://youtu.be/8-I-gEjTQ8g
 
 My YouTube Channel: https://www.youtube.com/cryptodonkeyminer
 
-(You really need to check my YouTube out if you are interest in knowing which miner software is the best)
+(You really need to check my YouTube out if you are interested in knowing which miner software is the best)
 
 ## Options
 * **Coins**</br>
