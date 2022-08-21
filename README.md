@@ -4,25 +4,11 @@ CryptoDonkeyMinersTuningTool will help you find the best overclock settings for 
 
 Currently only Ergo (ERG), Conflux (CFX), Ethereum (ETH) and Ravencoin (RVN) with T-Rex miner are supported.
 
-V1.0.0 ERG video demo: https://youtu.be/htG0PyrHgtQ
+See how it works here: https://youtu.be/8-I-gEjTQ8g
 
-V1.0.2 RVN video demo: https://youtu.be/9S977sqvpCQ
+My YouTube Channel: https://www.youtube.com/cryptodonkeyminer
 
-My YouTube Channel: https://www.youtube.com/channel/UCXpeiHGQziOKLA1P1sGUFkA
-
-(You really need to check my YouTube out if you have a newer version LHR GPU, like the RTX 3070 LHR and RTX 3060 LHR V2, and want to mine ERGO)
-
-RTX 3060 LHR V2 mining ERGO 103 MH/s at 78 watts: https://youtu.be/yDbIE3XNs5Q
-
-RTX 3070 LHR mining ERGO 135 MH/s at 89 watts: https://youtu.be/A0uvAqr1d8U
-
-(For ETH Unlocker tests)
-
-RTX 3060 V2 LHR mining ETH with NBMiner, GMiner and MiniZ unlocker: https://youtu.be/OU6n9Qjlyos
-
-RTX 3070 LHR mining ETH with NBMiner and GMiner unlocker: https://youtu.be/-e7Jivhv7sE
-
-RTX 3080 TI LHR Unlock mining ETH with NBMiner, LolMiner and GMiner, in Windows 10 and HiveOS: https://youtu.be/TA02ITDY7M4
+(You really need to check my YouTube out if you are interest in knowing which miner software is the best)
 
 ## Options
 * **Coins**</br>
